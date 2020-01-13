@@ -21,8 +21,8 @@ ALTER ROLE usage_load SET search_path TO usage_schema;
 ALTER ROLE usage_owner SET search_path TO usage_schema;
 ALTER ROLE usage_view SET search_path TO usage_schema;
 
-
-
+CREATE DATABASE usage_db;
+ALTER DATABASE usage_db OWNER TO usage_owner;
 
 --
 -- PostgreSQL database cluster dump complete

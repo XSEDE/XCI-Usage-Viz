@@ -37,7 +37,7 @@ CREATE TABLE std_usage_entry (
     "USE_AMOUNT_UNITS" character varying(8),
     "USAGE_STATUS" character varying(2048),
     "OTHER_FIELDS_JSON" text,
-    id integer NOT NULL,
+    id integer PRIMARY KEY,
     source_tag character varying(32)
 );
 
