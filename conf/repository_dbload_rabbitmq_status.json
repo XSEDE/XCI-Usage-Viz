@@ -1,0 +1,2002 @@
+{
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20181223.usage.csv.gz": {
+        "batch": "332d3882-4552-346d-888c-3ea995fc9ffd",
+        "in_mtime": "2019-10-11 20:58:21.349761",
+        "in_size": 67630,
+        "output_datetime": "2021-10-05T14:45:14Z",
+        "output_rows": "24562",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20181230.usage.csv.gz": {
+        "batch": "8ac3206c-1785-3c63-8bfc-5c145db0e054",
+        "in_mtime": "2019-10-11 20:58:22.605770",
+        "in_size": 163302,
+        "output_datetime": "2021-10-05T14:45:44Z",
+        "output_rows": "64018",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190106.usage.csv.gz": {
+        "batch": "209e6a9c-1c43-380f-866a-dec2af2e2976",
+        "in_mtime": "2019-10-11 20:58:23.720778",
+        "in_size": 164767,
+        "output_datetime": "2021-10-05T14:46:15Z",
+        "output_rows": "64155",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190113.usage.csv.gz": {
+        "batch": "3352decf-6c4e-3fb5-adf1-890dff6e2959",
+        "in_mtime": "2019-10-11 20:58:24.871787",
+        "in_size": 165745,
+        "output_datetime": "2021-10-05T14:46:47Z",
+        "output_rows": "63722",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190120.usage.csv.gz": {
+        "batch": "6e58cfa7-0c7c-316d-984d-e5fab0155c40",
+        "in_mtime": "2019-10-11 20:58:25.824793",
+        "in_size": 167414,
+        "output_datetime": "2021-10-05T14:47:37Z",
+        "output_rows": "63781",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190127.usage.csv.gz": {
+        "batch": "ba1a9b8b-be78-39e1-953d-a5b626b80d51",
+        "in_mtime": "2019-10-11 20:58:26.917801",
+        "in_size": 161025,
+        "output_datetime": "2021-10-05T14:48:11Z",
+        "output_rows": "60902",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190203.usage.csv.gz": {
+        "batch": "a76c0cc3-9ffc-3043-874a-daffb4cc1968",
+        "in_mtime": "2019-10-11 20:58:27.910808",
+        "in_size": 168598,
+        "output_datetime": "2021-10-05T14:48:36Z",
+        "output_rows": "64457",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190210.usage.csv.gz": {
+        "batch": "5337ed54-fb41-3852-a5be-89e5b1b5242d",
+        "in_mtime": "2019-10-11 20:58:28.878815",
+        "in_size": 167674,
+        "output_datetime": "2021-10-05T14:48:59Z",
+        "output_rows": "63560",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190217.usage.csv.gz": {
+        "batch": "4316add0-dbad-31d0-868e-0ba801d5e595",
+        "in_mtime": "2019-10-11 20:58:29.878822",
+        "in_size": 168909,
+        "output_datetime": "2021-10-04T22:49:56Z",
+        "output_rows": "64253",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190224.usage.csv.gz": {
+        "batch": "f63d73b0-4478-371b-bf62-3ba677b224e1",
+        "in_mtime": "2019-10-11 20:58:30.803829",
+        "in_size": 153961,
+        "output_datetime": "2021-10-04T22:52:42Z",
+        "output_rows": "61787",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190303.usage.csv.gz": {
+        "batch": "3a7a1b45-b123-3e2c-8de7-8bcb6789e870",
+        "in_mtime": "2019-10-11 20:58:31.905837",
+        "in_size": 143178,
+        "output_datetime": "2021-10-04T22:55:56Z",
+        "output_rows": "60115",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190310.usage.csv.gz": {
+        "batch": "56dc169f-c3ec-36bd-8f84-c127b97df0f3",
+        "in_mtime": "2019-10-11 20:58:32.964844",
+        "in_size": 140128,
+        "output_datetime": "2021-10-04T22:58:44Z",
+        "output_rows": "58019",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190317.usage.csv.gz": {
+        "batch": "218178ae-581d-3e03-8b7c-d5bfda286e0f",
+        "in_mtime": "2019-10-11 20:58:34.009852",
+        "in_size": 136206,
+        "output_datetime": "2021-10-04T23:06:56Z",
+        "output_rows": "55895",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190324.usage.csv.gz": {
+        "batch": "139e6fc0-5f50-370e-999d-dbce8ad83797",
+        "in_mtime": "2019-10-11 20:58:34.413855",
+        "in_size": 56586,
+        "output_datetime": "2021-10-04T23:08:38Z",
+        "output_rows": "19749",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190331.usage.csv.gz": {
+        "batch": "772b027a-4225-3572-802b-f60de31784dc",
+        "in_mtime": "2019-10-11 20:58:34.651856",
+        "in_size": 33059,
+        "output_datetime": "2021-10-04T23:08:58Z",
+        "output_rows": "9574",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190407.usage.csv.gz": {
+        "batch": "1d595900-7221-394e-abe0-a7912fdb70c0",
+        "in_mtime": "2019-10-11 20:58:34.857858",
+        "in_size": 33311,
+        "output_datetime": "2021-10-04T23:09:16Z",
+        "output_rows": "9620",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190414.usage.csv.gz": {
+        "batch": "e00962cc-296f-33a2-988c-27f74a6a83a6",
+        "in_mtime": "2019-10-11 20:58:35.116860",
+        "in_size": 32620,
+        "output_datetime": "2021-10-04T23:09:37Z",
+        "output_rows": "9438",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190421.usage.csv.gz": {
+        "batch": "60a50afb-72ba-3fe5-8cfd-03cedaf434de",
+        "in_mtime": "2019-10-11 20:58:35.378862",
+        "in_size": 32783,
+        "output_datetime": "2021-10-04T23:09:55Z",
+        "output_rows": "9590",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190428.usage.csv.gz": {
+        "batch": "d09cde6d-c74a-383a-860c-f9a907b32283",
+        "in_mtime": "2019-10-11 20:58:35.612863",
+        "in_size": 38506,
+        "output_datetime": "2021-10-04T23:11:13Z",
+        "output_rows": "10390",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190505.usage.csv.gz": {
+        "batch": "ba67a5b7-9125-398b-b475-a5ae64c5b070",
+        "in_mtime": "2019-10-11 20:58:35.938866",
+        "in_size": 57923,
+        "output_datetime": "2021-10-04T23:11:41Z",
+        "output_rows": "14044",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190512.usage.csv.gz": {
+        "batch": "ca31c8ec-2886-31d9-b93b-3e64e4f5830b",
+        "in_mtime": "2019-10-11 20:58:36.256868",
+        "in_size": 55898,
+        "output_datetime": "2021-10-04T23:12:10Z",
+        "output_rows": "13661",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190519.usage.csv.gz": {
+        "batch": "cd25cb55-3d43-3bcc-a936-c9d489e8b653",
+        "in_mtime": "2019-10-11 20:58:36.660871",
+        "in_size": 52459,
+        "output_datetime": "2021-10-04T23:12:37Z",
+        "output_rows": "12873",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190526.usage.csv.gz": {
+        "batch": "9a5e11cb-e110-3c93-8ba2-295e8da2bbbb",
+        "in_mtime": "2019-10-11 20:58:36.929873",
+        "in_size": 53038,
+        "output_datetime": "2021-10-04T23:13:03Z",
+        "output_rows": "12869",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190602.usage.csv.gz": {
+        "batch": "d33cda50-b8a9-3be9-8070-78b273782490",
+        "in_mtime": "2019-10-11 20:58:37.253875",
+        "in_size": 57606,
+        "output_datetime": "2021-10-04T23:17:39Z",
+        "output_rows": "13977",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190609.usage.csv.gz": {
+        "batch": "8236c510-eff1-3f1e-89fe-b24a32886e4b",
+        "in_mtime": "2019-10-11 20:58:37.547877",
+        "in_size": 57477,
+        "output_datetime": "2021-10-04T23:18:07Z",
+        "output_rows": "13943",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190616.usage.csv.gz": {
+        "batch": "10602161-a46d-37bf-b354-71b5bfbb330a",
+        "in_mtime": "2019-10-11 20:58:37.856879",
+        "in_size": 57533,
+        "output_datetime": "2021-10-04T23:19:29Z",
+        "output_rows": "14180",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190623.usage.csv.gz": {
+        "batch": "e808557e-3cb2-333e-b2a4-be919b720459",
+        "in_mtime": "2019-10-11 20:58:38.158881",
+        "in_size": 51024,
+        "output_datetime": "2021-10-04T23:19:57Z",
+        "output_rows": "12383",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190630.usage.csv.gz": {
+        "batch": "dea13868-acac-3f2f-9376-f1167666dd47",
+        "in_mtime": "2019-10-11 20:58:38.442883",
+        "in_size": 54574,
+        "output_datetime": "2021-10-04T23:20:26Z",
+        "output_rows": "13384",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190707.usage.csv.gz": {
+        "batch": "6ee6d33b-b84a-3b1b-94bd-9e4f57204fa6",
+        "in_mtime": "2019-10-11 20:58:38.783886",
+        "in_size": 57203,
+        "output_datetime": "2021-10-04T23:20:58Z",
+        "output_rows": "14009",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190714.usage.csv.gz": {
+        "batch": "f8deb42a-b7c9-33e1-be0e-09727521d99d",
+        "in_mtime": "2019-10-11 20:58:39.070888",
+        "in_size": 57055,
+        "output_datetime": "2021-10-04T23:21:53Z",
+        "output_rows": "14006",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190721.usage.csv.gz": {
+        "batch": "b6855d4b-40de-3ca8-be37-b85a5b3af763",
+        "in_mtime": "2019-10-11 20:58:39.362890",
+        "in_size": 53662,
+        "output_datetime": "2021-10-04T23:22:31Z",
+        "output_rows": "13117",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190728.usage.csv.gz": {
+        "batch": "b90e5883-5e97-3e26-a7f4-69d525ca6edc",
+        "in_mtime": "2019-10-11 20:58:39.676892",
+        "in_size": 56656,
+        "output_datetime": "2021-10-04T23:22:58Z",
+        "output_rows": "13856",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190804.usage.csv.gz": {
+        "batch": "c2bf047e-a43f-3ded-8810-399e81b3c387",
+        "in_mtime": "2019-10-11 20:58:40.054895",
+        "in_size": 57453,
+        "output_datetime": "2021-10-04T23:23:28Z",
+        "output_rows": "14046",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190811.usage.csv.gz": {
+        "batch": "abad204c-400a-3c95-99e2-0678b00e43eb",
+        "in_mtime": "2019-10-11 20:58:40.338897",
+        "in_size": 52206,
+        "output_datetime": "2021-10-04T23:24:34Z",
+        "output_rows": "12594",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190818.usage.csv.gz": {
+        "batch": "870fb928-c643-3920-8245-e0f65c794d96",
+        "in_mtime": "2019-10-11 20:58:40.658899",
+        "in_size": 58661,
+        "output_datetime": "2021-10-04T23:25:33Z",
+        "output_rows": "14230",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190825.usage.csv.gz": {
+        "batch": "42b6fb06-2a0d-3731-b14b-cd5fda728e5f",
+        "in_mtime": "2019-10-11 20:58:40.977901",
+        "in_size": 58051,
+        "output_datetime": "2021-10-04T23:26:03Z",
+        "output_rows": "14214",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190901.usage.csv.gz": {
+        "batch": "ec1c91e4-cce4-3a9c-aa8f-7f825444057c",
+        "in_mtime": "2019-10-11 20:58:41.368904",
+        "in_size": 57473,
+        "output_datetime": "2021-10-04T23:26:35Z",
+        "output_rows": "14157",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190908.usage.csv.gz": {
+        "batch": "315901fd-63ab-3077-aa4b-7b6703c366e9",
+        "in_mtime": "2019-10-11 20:58:41.695907",
+        "in_size": 57676,
+        "output_datetime": "2021-10-04T23:27:09Z",
+        "output_rows": "14176",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190915.usage.csv.gz": {
+        "batch": "86b70293-1944-34d1-b431-8d635ee1a749",
+        "in_mtime": "2019-10-11 20:58:42.008909",
+        "in_size": 56736,
+        "output_datetime": "2021-10-04T23:27:43Z",
+        "output_rows": "13900",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190922.usage.csv.gz": {
+        "batch": "45c40ed7-fac3-300f-8278-47ccd1fb2e37",
+        "in_mtime": "2019-10-11 20:58:42.351911",
+        "in_size": 47697,
+        "output_datetime": "2021-10-04T23:28:16Z",
+        "output_rows": "11427",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20190929.usage.csv.gz": {
+        "batch": "3240cd70-2dcb-30f5-bf58-6e222efe45b4",
+        "in_mtime": "2019-10-11 20:58:42.629913",
+        "in_size": 54100,
+        "output_datetime": "2021-10-04T23:28:45Z",
+        "output_rows": "13258",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191006.usage.csv.gz": {
+        "batch": "f91437c9-8d11-3da9-8b3e-7efae2f082af",
+        "in_mtime": "2019-10-11 20:58:42.953916",
+        "in_size": 56159,
+        "output_datetime": "2021-10-04T23:29:12Z",
+        "output_rows": "13683",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191013.usage.csv.gz": {
+        "batch": "1c1e7cb5-ade1-3530-9d79-58eae5778b73",
+        "in_mtime": "2019-10-14 07:00:01.539072",
+        "in_size": 55753,
+        "output_datetime": "2021-10-04T23:29:37Z",
+        "output_rows": "13526",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191020.usage.csv.gz": {
+        "batch": "8e0c77c0-b306-3735-b526-8ec4e2dd38d2",
+        "in_mtime": "2019-10-21 07:00:01.939894",
+        "in_size": 55349,
+        "output_datetime": "2021-10-04T23:30:03Z",
+        "output_rows": "13473",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191027.usage.csv.gz": {
+        "batch": "133befef-9496-3238-a66c-6dae7fe29d44",
+        "in_mtime": "2019-10-28 07:00:01.986673",
+        "in_size": 57787,
+        "output_datetime": "2021-10-04T23:30:51Z",
+        "output_rows": "13949",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191103.usage.csv.gz": {
+        "batch": "27e59cfd-a542-3702-8668-636ae9419ced",
+        "in_mtime": "2019-11-04 07:00:02.269516",
+        "in_size": 56490,
+        "output_datetime": "2021-10-04T23:32:39Z",
+        "output_rows": "13794",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191110.usage.csv.gz": {
+        "batch": "3aeb9a4e-6c65-370d-8d61-cff72a471354",
+        "in_mtime": "2019-11-11 07:00:01.829651",
+        "in_size": 56787,
+        "output_datetime": "2021-10-04T23:33:45Z",
+        "output_rows": "13872",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191117.usage.csv.gz": {
+        "batch": "265369b5-38d2-304a-92c2-cf7f01386e8e",
+        "in_mtime": "2019-11-18 07:00:01.742589",
+        "in_size": 44224,
+        "output_datetime": "2021-10-04T23:34:10Z",
+        "output_rows": "11528",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191124.usage.csv.gz": {
+        "batch": "59fbc607-ce3f-3851-9eaf-a9a504981716",
+        "in_mtime": "2019-11-25 07:00:02.081049",
+        "in_size": 33218,
+        "output_datetime": "2021-10-04T23:34:32Z",
+        "output_rows": "9390",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191201.usage.csv.gz": {
+        "batch": "652a6e64-ac9d-38e0-b1cf-1d832c1c7e76",
+        "in_mtime": "2019-12-02 07:00:01.996994",
+        "in_size": 47390,
+        "output_datetime": "2021-10-04T23:34:59Z",
+        "output_rows": "11931",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191208.usage.csv.gz": {
+        "batch": "9e371624-9543-316b-aae1-1f5856a850d7",
+        "in_mtime": "2019-12-09 07:00:01.706642",
+        "in_size": 57501,
+        "output_datetime": "2021-10-04T23:35:28Z",
+        "output_rows": "13974",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191215.usage.csv.gz": {
+        "batch": "5e7393d9-eec8-319d-8175-6b55e6a7663e",
+        "in_mtime": "2019-12-16 07:00:01.714541",
+        "in_size": 54537,
+        "output_datetime": "2021-10-04T23:35:58Z",
+        "output_rows": "13435",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191222.usage.csv.gz": {
+        "batch": "407354f0-6426-3422-8b96-0b983d0684f7",
+        "in_mtime": "2019-12-23 07:00:02.086190",
+        "in_size": 50254,
+        "output_datetime": "2021-10-04T23:39:27Z",
+        "output_rows": "12323",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20191229.usage.csv.gz": {
+        "batch": "cb4d4fc7-7cd6-34d7-9050-fa6d040a573e",
+        "in_mtime": "2019-12-30 07:00:02.199897",
+        "in_size": 49883,
+        "output_datetime": "2021-10-04T23:39:50Z",
+        "output_rows": "12212",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200105.usage.csv.gz": {
+        "batch": "41ec2191-b5e2-3ffa-873e-50944934e315",
+        "in_mtime": "2020-01-06 07:00:02.119975",
+        "in_size": 49523,
+        "output_datetime": "2021-10-04T23:40:20Z",
+        "output_rows": "12192",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200112.usage.csv.gz": {
+        "batch": "5d0ecd27-aa10-31ae-8263-df989bd0859b",
+        "in_mtime": "2020-01-13 07:00:02.168233",
+        "in_size": 48239,
+        "output_datetime": "2021-10-04T23:41:35Z",
+        "output_rows": "11819",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200119.usage.csv.gz": {
+        "batch": "a9899096-4aac-3803-a0ae-34701957cff9",
+        "in_mtime": "2020-01-20 07:00:02.322554",
+        "in_size": 47622,
+        "output_datetime": "2021-10-04T23:42:05Z",
+        "output_rows": "11927",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200126.usage.csv.gz": {
+        "batch": "a7f4ead8-0642-36a3-a80c-33a7a078cfef",
+        "in_mtime": "2020-01-27 07:00:02.054509",
+        "in_size": 47889,
+        "output_datetime": "2021-10-04T23:42:51Z",
+        "output_rows": "12127",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200628.usage.csv.gz": {
+        "batch": "4dbf2b77-f566-3765-b6f6-ac629656e6c3",
+        "in_mtime": "2020-11-12 07:00:01.742934",
+        "in_size": 10922,
+        "output_datetime": "2021-10-04T23:42:59Z",
+        "output_rows": "2247",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200705.usage.csv.gz": {
+        "batch": "2839b288-5384-3b18-b98e-0036ad2fa1b2",
+        "in_mtime": "2020-11-12 07:00:02.081935",
+        "in_size": 11020,
+        "output_datetime": "2021-10-04T23:43:03Z",
+        "output_rows": "2254",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200712.usage.csv.gz": {
+        "batch": "f4b1c3d9-949b-383b-9d7c-5b5fc0844de7",
+        "in_mtime": "2020-11-12 07:00:02.284936",
+        "in_size": 10657,
+        "output_datetime": "2021-10-04T23:43:08Z",
+        "output_rows": "2189",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200719.usage.csv.gz": {
+        "batch": "2be2ed42-4dc5-38ac-b5b9-e02ba624fb33",
+        "in_mtime": "2020-11-12 07:00:02.429936",
+        "in_size": 9626,
+        "output_datetime": "2021-10-04T23:43:13Z",
+        "output_rows": "2047",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200726.usage.csv.gz": {
+        "batch": "183a3466-4b33-31d1-ab51-2000c8b55504",
+        "in_mtime": "2020-11-12 07:00:02.584937",
+        "in_size": 9305,
+        "output_datetime": "2021-10-04T23:43:18Z",
+        "output_rows": "1999",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200802.usage.csv.gz": {
+        "batch": "922151c7-68a6-395f-be26-819a772972bd",
+        "in_mtime": "2020-11-12 07:00:02.684937",
+        "in_size": 9457,
+        "output_datetime": "2021-10-04T23:43:22Z",
+        "output_rows": "1995",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200809.usage.csv.gz": {
+        "batch": "64ba963d-9302-3bea-acdd-c107b4fcba5a",
+        "in_mtime": "2020-11-12 07:00:02.797938",
+        "in_size": 9735,
+        "output_datetime": "2021-10-04T23:43:32Z",
+        "output_rows": "2080",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200816.usage.csv.gz": {
+        "batch": "7d813f75-5b28-399b-bbed-fe713447cf70",
+        "in_mtime": "2020-11-12 07:00:02.911938",
+        "in_size": 9465,
+        "output_datetime": "2021-10-04T23:43:49Z",
+        "output_rows": "2010",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200823.usage.csv.gz": {
+        "batch": "f2295ef7-0519-3e89-a48d-ae65f43ac9cc",
+        "in_mtime": "2020-11-12 07:00:03.021939",
+        "in_size": 9703,
+        "output_datetime": "2021-10-04T23:43:58Z",
+        "output_rows": "2072",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200830.usage.csv.gz": {
+        "batch": "e010a412-95f5-3209-96dd-18a97f555bc7",
+        "in_mtime": "2020-11-12 07:00:03.156939",
+        "in_size": 9721,
+        "output_datetime": "2021-10-04T23:44:04Z",
+        "output_rows": "2068",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200906.usage.csv.gz": {
+        "batch": "773d75b6-128c-36d6-9727-705b29432d18",
+        "in_mtime": "2020-11-12 07:00:03.304940",
+        "in_size": 9741,
+        "output_datetime": "2021-10-04T23:44:09Z",
+        "output_rows": "2096",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200913.usage.csv.gz": {
+        "batch": "7ce98fec-99bc-3957-93f4-dd9ace9f3f6d",
+        "in_mtime": "2020-11-12 07:00:03.455940",
+        "in_size": 9923,
+        "output_datetime": "2021-10-04T23:44:15Z",
+        "output_rows": "2128",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200920.usage.csv.gz": {
+        "batch": "84ec9731-c5f4-33f9-a44c-09a97f3eb3c1",
+        "in_mtime": "2020-11-12 07:00:03.617941",
+        "in_size": 9761,
+        "output_datetime": "2021-10-04T23:44:20Z",
+        "output_rows": "2095",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20200927.usage.csv.gz": {
+        "batch": "768a3253-8ba7-3b9a-a2c7-ab781288f775",
+        "in_mtime": "2020-11-12 07:00:03.803941",
+        "in_size": 9714,
+        "output_datetime": "2021-10-04T23:44:25Z",
+        "output_rows": "2075",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201004.usage.csv.gz": {
+        "batch": "4c466f6e-32f7-30b4-a592-682f330670ee",
+        "in_mtime": "2020-11-12 07:00:03.923942",
+        "in_size": 9865,
+        "output_datetime": "2021-10-04T23:44:31Z",
+        "output_rows": "2099",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201011.usage.csv.gz": {
+        "batch": "669c775d-e2d6-3688-b49c-f1a2dc9dae8e",
+        "in_mtime": "2020-11-12 07:00:04.105943",
+        "in_size": 28835,
+        "output_datetime": "2021-10-04T23:44:48Z",
+        "output_rows": "6834",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201018.usage.csv.gz": {
+        "batch": "1a63e27b-fbc4-345a-b3b4-ba30cb534044",
+        "in_mtime": "2020-11-12 07:00:04.357944",
+        "in_size": 40009,
+        "output_datetime": "2021-10-04T23:45:09Z",
+        "output_rows": "9643",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201025.usage.csv.gz": {
+        "batch": "6d1be444-b5d4-3273-ba98-b237ac6730da",
+        "in_mtime": "2020-11-12 07:00:04.624945",
+        "in_size": 39826,
+        "output_datetime": "2021-10-04T23:45:34Z",
+        "output_rows": "9666",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201101.usage.csv.gz": {
+        "batch": "2824201a-46e0-370f-911a-82c8e35e1bc4",
+        "in_mtime": "2020-11-12 07:00:04.890946",
+        "in_size": 41124,
+        "output_datetime": "2021-10-05T00:07:15Z",
+        "output_rows": "9881",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201108.usage.csv.gz": {
+        "batch": "ed8012fd-7edd-3f0b-91d8-3e327c502e4f",
+        "in_mtime": "2020-11-12 07:00:05.101947",
+        "in_size": 41734,
+        "output_datetime": "2021-10-05T00:07:36Z",
+        "output_rows": "9727",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201115.usage.csv.gz": {
+        "batch": "043e377f-5657-3970-b50e-ebff7084bc8d",
+        "in_mtime": "2020-11-16 07:00:01.750810",
+        "in_size": 42637,
+        "output_datetime": "2021-10-05T00:08:08Z",
+        "output_rows": "10173",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201122.usage.csv.gz": {
+        "batch": "72706ebc-2e49-354a-82f8-2dd474009253",
+        "in_mtime": "2020-11-23 07:00:01.697986",
+        "in_size": 42411,
+        "output_datetime": "2021-10-05T00:08:48Z",
+        "output_rows": "10034",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201129.usage.csv.gz": {
+        "batch": "b8ea9348-5686-3c0c-9aed-557cdbaef26f",
+        "in_mtime": "2020-12-10 07:00:02.392393",
+        "in_size": 43402,
+        "output_datetime": "2021-10-05T00:09:10Z",
+        "output_rows": "10085",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201206.usage.csv.gz": {
+        "batch": "e66ff409-672e-3472-8956-5dacfba66599",
+        "in_mtime": "2020-12-10 07:00:02.618394",
+        "in_size": 43055,
+        "output_datetime": "2021-10-05T00:09:50Z",
+        "output_rows": "10099",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201213.usage.csv.gz": {
+        "batch": "5ce96665-d913-38aa-b6c0-1b002fa49ec2",
+        "in_mtime": "2020-12-14 07:00:02.016221",
+        "in_size": 41756,
+        "output_datetime": "2021-10-05T00:10:38Z",
+        "output_rows": "9930",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201220.usage.csv.gz": {
+        "batch": "7705bae5-fca6-3131-8d3b-efde9105243e",
+        "in_mtime": "2020-12-21 07:00:02.331099",
+        "in_size": 41271,
+        "output_datetime": "2021-10-05T00:11:07Z",
+        "output_rows": "9775",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20201227.usage.csv.gz": {
+        "batch": "6a7cd14c-1618-34a6-affc-8cb9d49f0d64",
+        "in_mtime": "2020-12-28 07:00:01.626015",
+        "in_size": 41890,
+        "output_datetime": "2021-10-05T00:12:56Z",
+        "output_rows": "9853",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210103.usage.csv.gz": {
+        "batch": "f010330e-7b1f-3d35-a781-3c208450a7b3",
+        "in_mtime": "2021-01-04 07:00:02.130301",
+        "in_size": 41745,
+        "output_datetime": "2021-10-05T00:13:49Z",
+        "output_rows": "9920",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210110.usage.csv.gz": {
+        "batch": "96316420-ab44-33da-841f-0acf2660ca32",
+        "in_mtime": "2021-01-11 07:00:01.547923",
+        "in_size": 43454,
+        "output_datetime": "2021-10-05T00:14:25Z",
+        "output_rows": "10056",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210117.usage.csv.gz": {
+        "batch": "1a2aa7cf-73bf-3c8e-95c1-3254e8710505",
+        "in_mtime": "2021-01-18 07:00:01.511829",
+        "in_size": 44890,
+        "output_datetime": "2021-10-05T00:15:47Z",
+        "output_rows": "10121",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210124.usage.csv.gz": {
+        "batch": "d68a6437-25e9-3ac8-a7be-887f0985e2b5",
+        "in_mtime": "2021-01-25 07:00:01.797262",
+        "in_size": 43089,
+        "output_datetime": "2021-10-05T00:16:10Z",
+        "output_rows": "9996",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210131.usage.csv.gz": {
+        "batch": "70ddf48f-80b1-3190-b208-c4f2774bbec3",
+        "in_mtime": "2021-02-01 07:00:01.833067",
+        "in_size": 43933,
+        "output_datetime": "2021-10-05T00:16:33Z",
+        "output_rows": "9969",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210207.usage.csv.gz": {
+        "batch": "5fa56569-2b6c-39ac-b781-571203316410",
+        "in_mtime": "2021-02-08 07:00:03.148488",
+        "in_size": 44617,
+        "output_datetime": "2021-10-05T00:18:04Z",
+        "output_rows": "10251",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210214.usage.csv.gz": {
+        "batch": "f69b3610-b4e9-388d-9b56-0eb4a35adc75",
+        "in_mtime": "2021-02-15 07:00:02.156513",
+        "in_size": 54939,
+        "output_datetime": "2021-10-05T00:18:31Z",
+        "output_rows": "12244",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210221.usage.csv.gz": {
+        "batch": "c9b46379-0095-398c-8e98-e0b1aa2d8898",
+        "in_mtime": "2021-02-22 07:00:02.058002",
+        "in_size": 72484,
+        "output_datetime": "2021-10-05T00:19:07Z",
+        "output_rows": "16719",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210228.usage.csv.gz": {
+        "batch": "d348a345-35c3-31b4-89a9-4210abc5b6b0",
+        "in_mtime": "2021-03-01 07:00:02.618780",
+        "in_size": 79756,
+        "output_datetime": "2021-10-05T00:20:29Z",
+        "output_rows": "19685",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210307.usage.csv.gz": {
+        "batch": "66f91fab-2368-3c28-921b-8e497b7bba35",
+        "in_mtime": "2021-03-08 07:00:01.682107",
+        "in_size": 78530,
+        "output_datetime": "2021-10-05T00:22:14Z",
+        "output_rows": "19423",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210314.usage.csv.gz": {
+        "batch": "a0a96bf6-9cb4-3d5b-8dc3-7130cb1e0676",
+        "in_mtime": "2021-03-15 07:00:01.935257",
+        "in_size": 78677,
+        "output_datetime": "2021-10-05T00:22:59Z",
+        "output_rows": "19170",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210321.usage.csv.gz": {
+        "batch": "6fa87d1d-5e1e-36b3-a52d-e1a388b7bf60",
+        "in_mtime": "2021-03-22 07:00:02.503909",
+        "in_size": 74885,
+        "output_datetime": "2021-10-05T00:23:36Z",
+        "output_rows": "17848",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210328.usage.csv.gz": {
+        "batch": "726c26b4-1c53-3e65-bad3-a853375b805d",
+        "in_mtime": "2021-03-29 07:00:02.546747",
+        "in_size": 76271,
+        "output_datetime": "2021-10-05T00:24:37Z",
+        "output_rows": "18032",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210404.usage.csv.gz": {
+        "batch": "8387d0aa-008c-3f29-b8dc-8292371e557c",
+        "in_mtime": "2021-04-05 07:00:02.245136",
+        "in_size": 99167,
+        "output_datetime": "2021-10-05T00:25:30Z",
+        "output_rows": "23822",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210411.usage.csv.gz": {
+        "batch": "cd5707ba-1542-3a72-8ff2-2ed85196997c",
+        "in_mtime": "2021-04-12 07:00:01.726660",
+        "in_size": 105332,
+        "output_datetime": "2021-10-05T00:26:44Z",
+        "output_rows": "25219",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210418.usage.csv.gz": {
+        "batch": "a4713ec6-8b61-3dfa-a572-7a0085a17864",
+        "in_mtime": "2021-04-19 07:00:01.995595",
+        "in_size": 117244,
+        "output_datetime": "2021-10-05T00:27:47Z",
+        "output_rows": "27403",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210425.usage.csv.gz": {
+        "batch": "f87e8ee8-9fea-3d5a-bcbe-fc7f83ec5bf0",
+        "in_mtime": "2021-04-26 07:00:02.528177",
+        "in_size": 124065,
+        "output_datetime": "2021-10-05T00:29:39Z",
+        "output_rows": "29200",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210502.usage.csv.gz": {
+        "batch": "21078e71-95bc-3104-b457-688d9e1548bc",
+        "in_mtime": "2021-05-03 07:00:02.482529",
+        "in_size": 124944,
+        "output_datetime": "2021-10-05T00:30:46Z",
+        "output_rows": "29511",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210509.usage.csv.gz": {
+        "batch": "f1654401-2757-3416-b276-8ac92422e5c2",
+        "in_mtime": "2021-05-10 07:00:01.943586",
+        "in_size": 124946,
+        "output_datetime": "2021-10-05T00:32:17Z",
+        "output_rows": "29031",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210516.usage.csv.gz": {
+        "batch": "5a52705b-8d49-35eb-8729-9409ca17bf86",
+        "in_mtime": "2021-05-17 07:00:02.617415",
+        "in_size": 113422,
+        "output_datetime": "2021-10-05T00:33:23Z",
+        "output_rows": "26721",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210523.usage.csv.gz": {
+        "batch": "d1ccfc88-9311-35ea-adcc-2e36697fedcb",
+        "in_mtime": "2021-05-24 07:00:02.083624",
+        "in_size": 125782,
+        "output_datetime": "2021-10-05T00:35:14Z",
+        "output_rows": "28711",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210530.usage.csv.gz": {
+        "batch": "6ef5a132-d501-36c1-99aa-fb4c80ca21ff",
+        "in_mtime": "2021-05-31 07:00:02.465764",
+        "in_size": 107860,
+        "output_datetime": "2021-10-05T00:36:09Z",
+        "output_rows": "24818",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210606.usage.csv.gz": {
+        "batch": "4ab0fcf2-7310-3185-bf08-b8cd8b0ae84a",
+        "in_mtime": "2021-06-07 07:00:02.084890",
+        "in_size": 113101,
+        "output_datetime": "2021-10-05T00:37:30Z",
+        "output_rows": "27379",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210613.usage.csv.gz": {
+        "batch": "f94aa341-0794-3887-845e-451c9f306bbb",
+        "in_mtime": "2021-06-14 07:00:01.912202",
+        "in_size": 101521,
+        "output_datetime": "2021-10-05T00:39:59Z",
+        "output_rows": "22593",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210620.usage.csv.gz": {
+        "batch": "187ce336-2b1e-3038-942b-a4c78744df4b",
+        "in_mtime": "2021-06-21 07:00:02.218522",
+        "in_size": 97878,
+        "output_datetime": "2021-10-05T00:43:38Z",
+        "output_rows": "21037",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210627.usage.csv.gz": {
+        "batch": "22de4d6c-a3ce-3583-b0fe-300e069e0537",
+        "in_mtime": "2021-06-28 07:00:02.163771",
+        "in_size": 100293,
+        "output_datetime": "2021-10-05T00:44:27Z",
+        "output_rows": "21800",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210704.usage.csv.gz": {
+        "batch": "51821d97-3934-3bed-92ff-68116bf7c4a6",
+        "in_mtime": "2021-07-05 07:00:02.058183",
+        "in_size": 99894,
+        "output_datetime": "2021-10-05T00:45:17Z",
+        "output_rows": "21875",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210711.usage.csv.gz": {
+        "batch": "e26c510b-6539-340f-8430-a0fe71547d91",
+        "in_mtime": "2021-07-12 07:00:02.129280",
+        "in_size": 98996,
+        "output_datetime": "2021-10-05T00:46:10Z",
+        "output_rows": "21596",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210718.usage.csv.gz": {
+        "batch": "2a6c5518-da81-3ccf-a80a-91d8ab843086",
+        "in_mtime": "2021-07-19 07:00:02.020566",
+        "in_size": 98567,
+        "output_datetime": "2021-10-05T00:47:03Z",
+        "output_rows": "21060",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210725.usage.csv.gz": {
+        "batch": "aa4e3262-71d0-3259-b7b1-517387c6c351",
+        "in_mtime": "2021-07-26 07:00:02.326978",
+        "in_size": 94028,
+        "output_datetime": "2021-10-05T00:47:47Z",
+        "output_rows": "20005",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210801.usage.csv.gz": {
+        "batch": "31c3c37e-20c7-37c2-ad56-479e1dd3ad84",
+        "in_mtime": "2021-08-02 07:00:02.643465",
+        "in_size": 124720,
+        "output_datetime": "2021-10-05T00:51:05Z",
+        "output_rows": "27758",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210808.usage.csv.gz": {
+        "batch": "ba199dbd-047c-33e6-9b96-322314b61c5c",
+        "in_mtime": "2021-08-09 07:00:02.332724",
+        "in_size": 136307,
+        "output_datetime": "2021-10-05T00:52:16Z",
+        "output_rows": "30895",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210815.usage.csv.gz": {
+        "batch": "eab10acd-35e2-35e5-8b0c-7a7622fdcf47",
+        "in_mtime": "2021-08-16 07:00:02.579674",
+        "in_size": 134369,
+        "output_datetime": "2021-10-05T00:55:19Z",
+        "output_rows": "30867",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210822.usage.csv.gz": {
+        "batch": "15faccf0-f72b-3dcf-a4a1-294d5b5af6e3",
+        "in_mtime": "2021-08-23 07:00:02.057958",
+        "in_size": 129311,
+        "output_datetime": "2021-10-05T00:56:23Z",
+        "output_rows": "29563",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210829.usage.csv.gz": {
+        "batch": "9479a256-1249-302b-84fa-13dbfc4cce1f",
+        "in_mtime": "2021-08-30 07:00:01.957188",
+        "in_size": 134904,
+        "output_datetime": "2021-10-05T00:58:09Z",
+        "output_rows": "30847",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210905.usage.csv.gz": {
+        "batch": "d25c1b6b-d708-3214-b299-141d3e2bcc2d",
+        "in_mtime": "2021-09-06 07:00:01.960558",
+        "in_size": 130411,
+        "output_datetime": "2021-10-05T00:59:41Z",
+        "output_rows": "29548",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210912.usage.csv.gz": {
+        "batch": "727a21f3-19cc-373b-9f15-ac3814964645",
+        "in_mtime": "2021-09-13 07:00:02.156654",
+        "in_size": 137260,
+        "output_datetime": "2021-10-05T01:00:56Z",
+        "output_rows": "31237",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210919.usage.csv.gz": {
+        "batch": "a8ad372e-10e4-3a1d-aa9a-88267def8fca",
+        "in_mtime": "2021-09-20 07:00:02.578425",
+        "in_size": 140846,
+        "output_datetime": "2021-10-05T01:02:25Z",
+        "output_rows": "32204",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20210926.usage.csv.gz": {
+        "batch": "3876d660-b23e-3f1d-b056-bd55eb0b2ec9",
+        "in_mtime": "2021-09-27 07:00:01.328974",
+        "in_size": 59,
+        "output_datetime": "2021-10-05T14:48:59Z",
+        "output_rows": "0",
+        "output_status": "1"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub2.log-20211003.usage.csv.gz": {
+        "batch": "7f41f923-47fa-38e8-808d-f23018440c1b",
+        "in_mtime": "2021-10-04 07:00:01.866570",
+        "in_size": 59,
+        "output_datetime": "2021-10-05T14:49:00Z",
+        "output_rows": "0",
+        "output_status": "1"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20181223.usage.csv.gz": {
+        "batch": "5190bfe7-19a1-3f07-b7ea-6ad2c1a89c26",
+        "in_mtime": "2019-10-11 20:58:43.146917",
+        "in_size": 28439,
+        "output_datetime": "2021-10-05T01:02:41Z",
+        "output_rows": "6751",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20181230.usage.csv.gz": {
+        "batch": "9fe187a3-6bed-3850-9980-dcd41453f95e",
+        "in_mtime": "2019-10-11 20:58:43.577920",
+        "in_size": 56109,
+        "output_datetime": "2021-10-05T01:03:09Z",
+        "output_rows": "13499",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190106.usage.csv.gz": {
+        "batch": "cb60a885-f303-3344-a8bd-582d8cc62e81",
+        "in_mtime": "2019-10-11 20:58:43.901922",
+        "in_size": 57898,
+        "output_datetime": "2021-10-05T01:04:31Z",
+        "output_rows": "13840",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190113.usage.csv.gz": {
+        "batch": "96ae0b83-f3cf-3d65-877d-d12b123bbaa5",
+        "in_mtime": "2019-10-11 20:58:44.230925",
+        "in_size": 57742,
+        "output_datetime": "2021-10-05T01:10:23Z",
+        "output_rows": "13791",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190120.usage.csv.gz": {
+        "batch": "9d336e06-14d7-3329-9874-72481a3c09d2",
+        "in_mtime": "2019-10-11 20:58:44.546927",
+        "in_size": 56585,
+        "output_datetime": "2021-10-05T01:11:09Z",
+        "output_rows": "13579",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190127.usage.csv.gz": {
+        "batch": "32334bb0-cb17-3625-a2c4-251be43046a8",
+        "in_mtime": "2019-10-11 20:58:44.896930",
+        "in_size": 56660,
+        "output_datetime": "2021-10-05T01:12:42Z",
+        "output_rows": "13769",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190203.usage.csv.gz": {
+        "batch": "22743539-f387-3ae0-a133-f61ad1a6ab3f",
+        "in_mtime": "2019-10-11 20:58:45.188932",
+        "in_size": 56497,
+        "output_datetime": "2021-10-05T01:13:30Z",
+        "output_rows": "13654",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190210.usage.csv.gz": {
+        "batch": "eea06e85-ff76-3c54-8396-d07d6b81f400",
+        "in_mtime": "2019-10-11 20:58:45.516934",
+        "in_size": 56192,
+        "output_datetime": "2021-10-05T01:14:56Z",
+        "output_rows": "13582",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190217.usage.csv.gz": {
+        "batch": "898021f8-87f9-3e8f-9afb-d4194515bca1",
+        "in_mtime": "2019-10-11 20:58:45.841936",
+        "in_size": 57312,
+        "output_datetime": "2021-10-05T01:17:36Z",
+        "output_rows": "13737",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190224.usage.csv.gz": {
+        "batch": "54effbdf-2868-3c03-b83e-1528c1337e38",
+        "in_mtime": "2019-10-11 20:58:46.167939",
+        "in_size": 44980,
+        "output_datetime": "2021-10-05T01:18:56Z",
+        "output_rows": "11587",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190303.usage.csv.gz": {
+        "batch": "5e8c76cf-02fa-36e3-912f-03ed63ec5ad5",
+        "in_mtime": "2019-10-11 20:58:46.409940",
+        "in_size": 32763,
+        "output_datetime": "2021-10-05T01:19:48Z",
+        "output_rows": "9580",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190310.usage.csv.gz": {
+        "batch": "e1d0a60a-262b-3074-a9f3-c26e13a411d8",
+        "in_mtime": "2019-10-11 20:58:46.653942",
+        "in_size": 32008,
+        "output_datetime": "2021-10-05T01:21:06Z",
+        "output_rows": "9324",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190317.usage.csv.gz": {
+        "batch": "4bd4c0f5-824c-3a51-8e9e-5e6421e2f122",
+        "in_mtime": "2019-10-11 20:58:46.887944",
+        "in_size": 32100,
+        "output_datetime": "2021-10-05T01:22:07Z",
+        "output_rows": "9300",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190324.usage.csv.gz": {
+        "batch": "b5232e84-9f16-3861-9bb0-fc400f8bf09c",
+        "in_mtime": "2019-10-11 20:58:47.711950",
+        "in_size": 124710,
+        "output_datetime": "2021-10-05T01:26:14Z",
+        "output_rows": "51160",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190331.usage.csv.gz": {
+        "batch": "41ad0dde-759b-3189-9aae-9761b9bd5716",
+        "in_mtime": "2019-10-11 20:58:48.669956",
+        "in_size": 146930,
+        "output_datetime": "2021-10-05T01:31:05Z",
+        "output_rows": "60066",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190407.usage.csv.gz": {
+        "batch": "fd414ea5-b576-35de-a812-7a078be6459d",
+        "in_mtime": "2019-10-11 20:58:49.667964",
+        "in_size": 146219,
+        "output_datetime": "2021-10-05T01:35:08Z",
+        "output_rows": "59634",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190414.usage.csv.gz": {
+        "batch": "bce62889-5e65-3d40-b623-95e71a3cb002",
+        "in_mtime": "2019-10-11 20:58:50.592970",
+        "in_size": 148047,
+        "output_datetime": "2021-10-05T01:39:10Z",
+        "output_rows": "60274",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190421.usage.csv.gz": {
+        "batch": "74994780-6aa3-30d4-bf1e-691ae52c0095",
+        "in_mtime": "2019-10-11 20:58:51.540977",
+        "in_size": 146563,
+        "output_datetime": "2021-10-05T01:43:00Z",
+        "output_rows": "59744",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190428.usage.csv.gz": {
+        "batch": "2d77398a-6051-3c04-a1fb-1bd99615fd49",
+        "in_mtime": "2019-10-11 20:58:52.456984",
+        "in_size": 154026,
+        "output_datetime": "2021-10-05T01:47:41Z",
+        "output_rows": "61075",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190505.usage.csv.gz": {
+        "batch": "433ee2c3-59be-338b-b2a8-5ae06f8a289c",
+        "in_mtime": "2019-10-11 20:58:53.572991",
+        "in_size": 178053,
+        "output_datetime": "2021-10-05T01:52:56Z",
+        "output_rows": "67362",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190512.usage.csv.gz": {
+        "batch": "cdd540b3-35d0-3bea-b18a-2b8bb5725eaf",
+        "in_mtime": "2019-10-11 20:58:54.668999",
+        "in_size": 175852,
+        "output_datetime": "2021-10-05T01:57:25Z",
+        "output_rows": "69029",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190519.usage.csv.gz": {
+        "batch": "640136a6-0468-3966-955e-e3dc07ab061d",
+        "in_mtime": "2019-10-11 20:58:55.815007",
+        "in_size": 183393,
+        "output_datetime": "2021-10-05T02:01:32Z",
+        "output_rows": "74135",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190526.usage.csv.gz": {
+        "batch": "ae884ed1-567c-347f-8232-1f643ad6bed7",
+        "in_mtime": "2019-10-11 20:58:56.458012",
+        "in_size": 109983,
+        "output_datetime": "2021-10-05T02:02:54Z",
+        "output_rows": "38377",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190602.usage.csv.gz": {
+        "batch": "e9f895f4-2b97-3714-a769-14b0ca7ecbe8",
+        "in_mtime": "2019-10-11 20:58:56.938015",
+        "in_size": 84490,
+        "output_datetime": "2021-10-05T02:03:47Z",
+        "output_rows": "25465",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190609.usage.csv.gz": {
+        "batch": "2e13585c-a217-3e84-8bf7-9a498d78a301",
+        "in_mtime": "2019-10-11 20:58:58.118024",
+        "in_size": 180980,
+        "output_datetime": "2021-10-05T02:21:46Z",
+        "output_rows": "69841",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190616.usage.csv.gz": {
+        "batch": "671b1c49-e650-3628-b6df-30d7e806db0d",
+        "in_mtime": "2019-10-11 20:58:59.157031",
+        "in_size": 186287,
+        "output_datetime": "2021-10-05T02:26:51Z",
+        "output_rows": "72039",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190623.usage.csv.gz": {
+        "batch": "45579829-94ab-3572-86f1-4c64c055d117",
+        "in_mtime": "2019-10-11 20:58:59.979037",
+        "in_size": 147528,
+        "output_datetime": "2021-10-05T02:30:58Z",
+        "output_rows": "56055",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190630.usage.csv.gz": {
+        "batch": "a221c4b2-ac35-3d05-a326-3e10bc20a3b6",
+        "in_mtime": "2019-10-11 20:59:00.691042",
+        "in_size": 116019,
+        "output_datetime": "2021-10-05T02:34:07Z",
+        "output_rows": "41341",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190707.usage.csv.gz": {
+        "batch": "aa745d0d-4e47-3ad4-9d33-0d4b843aebb6",
+        "in_mtime": "2019-10-11 20:59:01.691049",
+        "in_size": 137083,
+        "output_datetime": "2021-10-05T02:36:58Z",
+        "output_rows": "51492",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190714.usage.csv.gz": {
+        "batch": "afe47b69-9c07-3140-aa5b-a9c7179744c2",
+        "in_mtime": "2019-10-11 20:59:02.452055",
+        "in_size": 136214,
+        "output_datetime": "2021-10-05T02:40:19Z",
+        "output_rows": "51379",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190721.usage.csv.gz": {
+        "batch": "383e6684-56c9-3243-b367-957fcfac6e9d",
+        "in_mtime": "2019-10-11 20:59:03.117059",
+        "in_size": 105103,
+        "output_datetime": "2021-10-05T02:42:20Z",
+        "output_rows": "36327",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190728.usage.csv.gz": {
+        "batch": "b8f156d4-18f7-3d48-968c-add22c3f7d8c",
+        "in_mtime": "2019-10-11 20:59:04.187067",
+        "in_size": 153820,
+        "output_datetime": "2021-10-05T02:49:19Z",
+        "output_rows": "57570",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190804.usage.csv.gz": {
+        "batch": "7a17369b-fd55-330b-88db-258379776ce3",
+        "in_mtime": "2019-10-11 20:59:05.325075",
+        "in_size": 183927,
+        "output_datetime": "2021-10-05T02:54:25Z",
+        "output_rows": "71534",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190811.usage.csv.gz": {
+        "batch": "2c83ae3f-cbdb-3699-890c-34e041e8037d",
+        "in_mtime": "2019-10-11 20:59:06.371083",
+        "in_size": 169510,
+        "output_datetime": "2021-10-05T02:58:29Z",
+        "output_rows": "64410",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190818.usage.csv.gz": {
+        "batch": "5772089e-f8c8-3a36-9c05-05e32cc0bfa0",
+        "in_mtime": "2019-10-11 20:59:07.376090",
+        "in_size": 185421,
+        "output_datetime": "2021-10-05T03:05:05Z",
+        "output_rows": "67238",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190825.usage.csv.gz": {
+        "batch": "c19f6ed6-9e53-3019-8a85-f4e22ec8124a",
+        "in_mtime": "2019-10-11 20:59:08.485098",
+        "in_size": 181089,
+        "output_datetime": "2021-10-05T11:11:08Z",
+        "output_rows": "64903",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190901.usage.csv.gz": {
+        "batch": "2dd2cb1c-4517-34b3-8d3a-5f92b274652e",
+        "in_mtime": "2019-10-11 20:59:09.458105",
+        "in_size": 176454,
+        "output_datetime": "2021-10-05T11:16:19Z",
+        "output_rows": "64377",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190908.usage.csv.gz": {
+        "batch": "77ae3135-9912-329c-99c4-72900832533b",
+        "in_mtime": "2019-10-11 20:59:10.532112",
+        "in_size": 178541,
+        "output_datetime": "2021-10-05T11:19:28Z",
+        "output_rows": "64669",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190915.usage.csv.gz": {
+        "batch": "b7295d93-4a8f-3947-a058-c5f9b8fd343e",
+        "in_mtime": "2019-10-11 20:59:11.662121",
+        "in_size": 176601,
+        "output_datetime": "2021-10-05T11:22:33Z",
+        "output_rows": "64539",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190922.usage.csv.gz": {
+        "batch": "7d20f01a-52f0-3468-bec7-36284a87deed",
+        "in_mtime": "2019-10-11 20:59:12.747128",
+        "in_size": 187845,
+        "output_datetime": "2021-10-05T11:24:46Z",
+        "output_rows": "59555",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20190929.usage.csv.gz": {
+        "batch": "93c0b6aa-813a-3872-b04b-171dfacc7066",
+        "in_mtime": "2019-10-11 20:59:15.339147",
+        "in_size": 457595,
+        "output_datetime": "2021-10-05T11:37:59Z",
+        "output_rows": "133112",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191006.usage.csv.gz": {
+        "batch": "54e70987-4f53-37b9-ab0f-66d53864dd55",
+        "in_mtime": "2019-10-11 20:59:17.708164",
+        "in_size": 464928,
+        "output_datetime": "2021-10-05T11:43:47Z",
+        "output_rows": "134860",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191013.usage.csv.gz": {
+        "batch": "fd453448-3abc-39c3-8f9a-ce118f76601a",
+        "in_mtime": "2019-10-14 07:00:03.793085",
+        "in_size": 422480,
+        "output_datetime": "2021-10-05T11:48:01Z",
+        "output_rows": "123289",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191020.usage.csv.gz": {
+        "batch": "f4517213-11f6-39dd-85b2-3ce47b31e95e",
+        "in_mtime": "2019-10-21 07:00:03.983909",
+        "in_size": 392616,
+        "output_datetime": "2021-10-05T11:52:03Z",
+        "output_rows": "115082",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191027.usage.csv.gz": {
+        "batch": "7c78da2a-ea55-34b4-ba28-4759479fe561",
+        "in_mtime": "2019-10-28 07:00:04.024687",
+        "in_size": 395670,
+        "output_datetime": "2021-10-05T11:59:25Z",
+        "output_rows": "116110",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191103.usage.csv.gz": {
+        "batch": "4e916dcf-4779-3b0a-8719-ce6f94ca72b1",
+        "in_mtime": "2019-11-04 07:00:04.537532",
+        "in_size": 392567,
+        "output_datetime": "2021-10-05T12:00:03Z",
+        "output_rows": "115601",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191110.usage.csv.gz": {
+        "batch": "65ce816c-57cc-3aab-ac32-f283bb2664ba",
+        "in_mtime": "2019-11-11 07:00:03.965665",
+        "in_size": 391620,
+        "output_datetime": "2021-10-05T12:00:41Z",
+        "output_rows": "115695",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191117.usage.csv.gz": {
+        "batch": "b80b7468-679f-3787-b51e-d5613b54bb8d",
+        "in_mtime": "2019-11-18 07:00:02.930598",
+        "in_size": 192222,
+        "output_datetime": "2021-10-05T12:01:00Z",
+        "output_rows": "56416",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191124.usage.csv.gz": {
+        "batch": "112c42f2-261e-30b4-a818-702fd8ba0d2a",
+        "in_mtime": "2019-11-25 07:00:02.910055",
+        "in_size": 107929,
+        "output_datetime": "2021-10-05T12:01:15Z",
+        "output_rows": "46794",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191201.usage.csv.gz": {
+        "batch": "683a399f-3a51-3dcc-9de5-280ca81d05d9",
+        "in_mtime": "2019-12-02 07:00:03.243994",
+        "in_size": 177144,
+        "output_datetime": "2021-10-05T12:01:42Z",
+        "output_rows": "76320",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191208.usage.csv.gz": {
+        "batch": "e15e22bc-826e-360c-ab24-d4afefa7a96e",
+        "in_mtime": "2019-12-09 07:00:02.946641",
+        "in_size": 183723,
+        "output_datetime": "2021-10-05T12:02:04Z",
+        "output_rows": "74216",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191215.usage.csv.gz": {
+        "batch": "9c2c8ded-23ec-3662-83bb-b354fb013a60",
+        "in_mtime": "2019-12-16 07:00:02.814541",
+        "in_size": 180983,
+        "output_datetime": "2021-10-05T12:02:28Z",
+        "output_rows": "71313",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191222.usage.csv.gz": {
+        "batch": "8c3bbc18-7faf-3422-98ec-d673145e8d26",
+        "in_mtime": "2019-12-23 07:00:03.318190",
+        "in_size": 181521,
+        "output_datetime": "2021-10-05T12:02:51Z",
+        "output_rows": "76567",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20191229.usage.csv.gz": {
+        "batch": "fa64a932-65ec-366b-957b-12cd0e0ed75b",
+        "in_mtime": "2019-12-30 07:00:03.329896",
+        "in_size": 169673,
+        "output_datetime": "2021-10-05T12:03:17Z",
+        "output_rows": "64752",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200105.usage.csv.gz": {
+        "batch": "79e11620-d9ae-3cef-8180-730bc46a87b9",
+        "in_mtime": "2020-01-06 07:00:03.268975",
+        "in_size": 169265,
+        "output_datetime": "2021-10-05T12:03:39Z",
+        "output_rows": "64029",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200112.usage.csv.gz": {
+        "batch": "2cdf3204-27c4-3e6d-857e-4601ba5d00f4",
+        "in_mtime": "2020-01-13 07:00:03.273232",
+        "in_size": 166835,
+        "output_datetime": "2021-10-05T12:03:59Z",
+        "output_rows": "63843",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200119.usage.csv.gz": {
+        "batch": "4dc1783c-fffd-3aa7-8912-8892b1db3b7e",
+        "in_mtime": "2020-01-20 07:00:03.379553",
+        "in_size": 167450,
+        "output_datetime": "2021-10-05T12:04:24Z",
+        "output_rows": "64859",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200126.usage.csv.gz": {
+        "batch": "7cd8252c-05cc-3af8-af3f-7bfb721d2508",
+        "in_mtime": "2020-01-27 07:00:03.121509",
+        "in_size": 165839,
+        "output_datetime": "2021-10-05T12:04:44Z",
+        "output_rows": "63441",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200628.usage.csv.gz": {
+        "batch": "ed918a76-24ca-34c2-9bb6-41ad0f28f436",
+        "in_mtime": "2020-11-11 07:00:03.816086",
+        "in_size": 14407,
+        "output_datetime": "2021-10-05T12:04:47Z",
+        "output_rows": "2901",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200705.usage.csv.gz": {
+        "batch": "9cf2f18b-b344-3f62-abbb-5f67a238a8b2",
+        "in_mtime": "2020-11-11 07:00:04.034087",
+        "in_size": 14484,
+        "output_datetime": "2021-10-05T12:04:48Z",
+        "output_rows": "2902",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200712.usage.csv.gz": {
+        "batch": "b03b4c0a-0a01-3a69-a99e-49213d7494d1",
+        "in_mtime": "2020-11-11 07:00:04.196087",
+        "in_size": 14326,
+        "output_datetime": "2021-10-05T12:04:50Z",
+        "output_rows": "2898",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200719.usage.csv.gz": {
+        "batch": "12a80da3-72c3-3545-89df-8db174a4bf91",
+        "in_mtime": "2020-11-11 07:00:04.338088",
+        "in_size": 13389,
+        "output_datetime": "2021-10-05T12:04:52Z",
+        "output_rows": "2744",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200726.usage.csv.gz": {
+        "batch": "8aea3dd9-9471-39b2-9866-2c499e15a07f",
+        "in_mtime": "2020-11-11 07:00:04.558089",
+        "in_size": 13928,
+        "output_datetime": "2021-10-05T12:04:53Z",
+        "output_rows": "2848",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200802.usage.csv.gz": {
+        "batch": "49167af0-a99d-3fc6-9396-e89954dc8852",
+        "in_mtime": "2020-11-11 07:00:04.839090",
+        "in_size": 13775,
+        "output_datetime": "2021-10-05T12:04:55Z",
+        "output_rows": "2835",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200809.usage.csv.gz": {
+        "batch": "eb9e2a13-8365-3a4d-8bc7-bdc327a73206",
+        "in_mtime": "2020-11-11 07:00:05.053091",
+        "in_size": 13344,
+        "output_datetime": "2021-10-05T12:04:57Z",
+        "output_rows": "2748",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200816.usage.csv.gz": {
+        "batch": "1ac9fbd4-56ab-3a20-98ca-6e41561e70a1",
+        "in_mtime": "2020-11-11 07:00:05.232091",
+        "in_size": 13803,
+        "output_datetime": "2021-10-05T12:05:00Z",
+        "output_rows": "2840",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200823.usage.csv.gz": {
+        "batch": "4ad1d3fa-9db4-3f00-bbf1-2017aabb8eb5",
+        "in_mtime": "2020-11-11 07:00:05.424092",
+        "in_size": 13686,
+        "output_datetime": "2021-10-05T12:05:03Z",
+        "output_rows": "2815",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200830.usage.csv.gz": {
+        "batch": "9e8a67bf-22e1-3b13-9ed6-cc96cc1078b5",
+        "in_mtime": "2020-11-11 07:00:05.600093",
+        "in_size": 13571,
+        "output_datetime": "2021-10-05T12:05:05Z",
+        "output_rows": "2812",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200906.usage.csv.gz": {
+        "batch": "0f06b33d-9802-3169-aca9-a8d56fad7b8e",
+        "in_mtime": "2020-11-11 07:00:05.771093",
+        "in_size": 13581,
+        "output_datetime": "2021-10-05T12:05:07Z",
+        "output_rows": "2795",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200913.usage.csv.gz": {
+        "batch": "76704fe8-938e-389f-bd38-167ade61d4a2",
+        "in_mtime": "2020-11-11 07:00:05.969094",
+        "in_size": 13472,
+        "output_datetime": "2021-10-05T12:05:09Z",
+        "output_rows": "2762",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200920.usage.csv.gz": {
+        "batch": "d5ae0361-5690-3dab-8446-d9aa90e080b4",
+        "in_mtime": "2020-11-11 07:00:06.180095",
+        "in_size": 13538,
+        "output_datetime": "2021-10-05T12:05:11Z",
+        "output_rows": "2772",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20200927.usage.csv.gz": {
+        "batch": "6e55e174-44f5-378c-b4ec-4d02dfbf713e",
+        "in_mtime": "2020-11-11 07:00:06.312095",
+        "in_size": 13450,
+        "output_datetime": "2021-10-05T12:05:13Z",
+        "output_rows": "2775",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201004.usage.csv.gz": {
+        "batch": "fe2c0dde-b992-3663-9940-1d683162207f",
+        "in_mtime": "2020-11-11 07:00:06.478096",
+        "in_size": 13371,
+        "output_datetime": "2021-10-05T12:05:15Z",
+        "output_rows": "2728",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201011.usage.csv.gz": {
+        "batch": "9e9a40aa-032a-35b4-a784-13ae6e8e8089",
+        "in_mtime": "2020-11-11 07:00:06.995098",
+        "in_size": 33255,
+        "output_datetime": "2021-10-05T12:05:20Z",
+        "output_rows": "7571",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201018.usage.csv.gz": {
+        "batch": "336b9a21-2f2f-3f92-b0d3-d0dfaeefd328",
+        "in_mtime": "2020-11-11 07:00:07.281099",
+        "in_size": 45353,
+        "output_datetime": "2021-10-05T12:05:26Z",
+        "output_rows": "10478",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201025.usage.csv.gz": {
+        "batch": "3ff6e4ca-466e-3134-a232-448b0e014079",
+        "in_mtime": "2020-11-11 07:00:07.580100",
+        "in_size": 44789,
+        "output_datetime": "2021-10-05T12:05:35Z",
+        "output_rows": "10336",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201101.usage.csv.gz": {
+        "batch": "08caecf1-8779-304a-bece-b75b127d2605",
+        "in_mtime": "2020-11-11 07:00:07.842101",
+        "in_size": 44914,
+        "output_datetime": "2021-10-05T12:05:42Z",
+        "output_rows": "10301",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201108.usage.csv.gz": {
+        "batch": "417cd65f-7376-30fe-a077-10a2cd12b1e7",
+        "in_mtime": "2020-11-11 07:00:08.142102",
+        "in_size": 46884,
+        "output_datetime": "2021-10-05T12:05:50Z",
+        "output_rows": "10667",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201115.usage.csv.gz": {
+        "batch": "bb8bd4b4-541b-3998-a4dc-753cf0875de5",
+        "in_mtime": "2020-11-16 07:00:01.994811",
+        "in_size": 47499,
+        "output_datetime": "2021-10-05T12:05:57Z",
+        "output_rows": "10750",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201122.usage.csv.gz": {
+        "batch": "ff293501-9859-3760-a8b0-0e07c0258bbc",
+        "in_mtime": "2020-11-23 07:00:01.947987",
+        "in_size": 48158,
+        "output_datetime": "2021-10-05T12:06:04Z",
+        "output_rows": "11044",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201129.usage.csv.gz": {
+        "batch": "b28bb95c-75e9-384d-8855-001464feee36",
+        "in_mtime": "2020-12-10 07:00:02.858395",
+        "in_size": 48732,
+        "output_datetime": "2021-10-05T12:06:13Z",
+        "output_rows": "11033",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201206.usage.csv.gz": {
+        "batch": "2755819b-a90c-3d4d-9d73-236ecf42b673",
+        "in_mtime": "2020-12-10 07:00:03.127396",
+        "in_size": 48345,
+        "output_datetime": "2021-10-05T12:06:21Z",
+        "output_rows": "10891",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201213.usage.csv.gz": {
+        "batch": "901c7da7-6d63-367c-871e-5c268eca644b",
+        "in_mtime": "2020-12-14 07:00:02.260222",
+        "in_size": 48114,
+        "output_datetime": "2021-10-05T12:06:28Z",
+        "output_rows": "10777",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201220.usage.csv.gz": {
+        "batch": "df37f993-3b77-3a4c-9881-9dc2245b6427",
+        "in_mtime": "2020-12-21 07:00:02.566100",
+        "in_size": 47799,
+        "output_datetime": "2021-10-05T12:06:36Z",
+        "output_rows": "10756",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20201227.usage.csv.gz": {
+        "batch": "4120b8e8-4737-3256-a9c6-d93dafe2d9e0",
+        "in_mtime": "2020-12-28 07:00:01.855016",
+        "in_size": 48140,
+        "output_datetime": "2021-10-05T12:06:44Z",
+        "output_rows": "10750",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210103.usage.csv.gz": {
+        "batch": "8bc34e87-386e-347d-9696-7da19ad3ab20",
+        "in_mtime": "2021-01-04 07:00:02.371303",
+        "in_size": 49017,
+        "output_datetime": "2021-10-05T12:06:51Z",
+        "output_rows": "11151",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210110.usage.csv.gz": {
+        "batch": "548c96d0-7830-32da-9b5f-70a45274ef0a",
+        "in_mtime": "2021-01-11 07:00:01.838924",
+        "in_size": 48841,
+        "output_datetime": "2021-10-05T12:06:58Z",
+        "output_rows": "11000",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210117.usage.csv.gz": {
+        "batch": "3337991e-6983-3606-bc6c-23fe800b092d",
+        "in_mtime": "2021-01-18 07:00:01.767830",
+        "in_size": 49052,
+        "output_datetime": "2021-10-05T12:07:06Z",
+        "output_rows": "10699",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210124.usage.csv.gz": {
+        "batch": "a36a9df6-4efa-3ea1-8da0-fa1d74b554a1",
+        "in_mtime": "2021-01-25 07:00:02.458265",
+        "in_size": 119238,
+        "output_datetime": "2021-10-05T12:07:24Z",
+        "output_rows": "41939",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210131.usage.csv.gz": {
+        "batch": "d46b1bd2-b4d8-310a-91f2-a28fc931ef4a",
+        "in_mtime": "2021-02-01 07:00:02.935072",
+        "in_size": 174696,
+        "output_datetime": "2021-10-05T12:07:49Z",
+        "output_rows": "67302",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210207.usage.csv.gz": {
+        "batch": "37df2dd2-2010-30c1-a5f0-e80e679666c2",
+        "in_mtime": "2021-02-08 07:00:04.258492",
+        "in_size": 191293,
+        "output_datetime": "2021-10-05T12:08:20Z",
+        "output_rows": "76523",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210214.usage.csv.gz": {
+        "batch": "dde6852e-c1c7-3c17-8b82-5fa394e30b58",
+        "in_mtime": "2021-02-15 07:00:03.405518",
+        "in_size": 204182,
+        "output_datetime": "2021-10-05T12:08:47Z",
+        "output_rows": "78705",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210221.usage.csv.gz": {
+        "batch": "1694051d-2dec-3597-bb92-e005d66bcf6e",
+        "in_mtime": "2021-02-22 07:00:02.912006",
+        "in_size": 140909,
+        "output_datetime": "2021-10-05T12:09:09Z",
+        "output_rows": "45102",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210228.usage.csv.gz": {
+        "batch": "2ef2d6e7-c5ac-3a54-9f4f-1d7e2866d5b8",
+        "in_mtime": "2021-03-01 07:00:03.887785",
+        "in_size": 211983,
+        "output_datetime": "2021-10-05T12:09:41Z",
+        "output_rows": "73130",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210307.usage.csv.gz": {
+        "batch": "d7184e5b-630f-3b69-a53b-f3c05c0aefac",
+        "in_mtime": "2021-03-08 07:00:03.189114",
+        "in_size": 246375,
+        "output_datetime": "2021-10-05T12:10:24Z",
+        "output_rows": "87288",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210314.usage.csv.gz": {
+        "batch": "4c4479f2-d605-3be5-b25e-49f32e3161e1",
+        "in_mtime": "2021-03-15 07:00:03.298263",
+        "in_size": 243595,
+        "output_datetime": "2021-10-05T12:11:12Z",
+        "output_rows": "85524",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210321.usage.csv.gz": {
+        "batch": "03d8789e-fa19-3322-9304-3bbe073ba6cb",
+        "in_mtime": "2021-03-22 07:00:03.748914",
+        "in_size": 235502,
+        "output_datetime": "2021-10-05T12:12:08Z",
+        "output_rows": "79194",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210328.usage.csv.gz": {
+        "batch": "36c04fc7-8aa2-39be-be6f-bf709b836517",
+        "in_mtime": "2021-03-29 07:00:03.721752",
+        "in_size": 229495,
+        "output_datetime": "2021-10-05T12:12:50Z",
+        "output_rows": "75103",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210404.usage.csv.gz": {
+        "batch": "9e923371-e706-3be5-8246-d053f03df332",
+        "in_mtime": "2021-04-05 07:00:03.480141",
+        "in_size": 255711,
+        "output_datetime": "2021-10-05T12:13:43Z",
+        "output_rows": "81148",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210411.usage.csv.gz": {
+        "batch": "bf902fc7-e162-3565-a64c-b0c5db0c55d2",
+        "in_mtime": "2021-04-12 07:00:03.092665",
+        "in_size": 264942,
+        "output_datetime": "2021-10-05T12:14:44Z",
+        "output_rows": "82848",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210418.usage.csv.gz": {
+        "batch": "0329c380-d037-36a3-87b7-373557b0d751",
+        "in_mtime": "2021-04-19 07:00:03.381601",
+        "in_size": 272206,
+        "output_datetime": "2021-10-05T12:15:36Z",
+        "output_rows": "84183",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210425.usage.csv.gz": {
+        "batch": "7736b047-a05f-3c23-8150-8298fb1110ab",
+        "in_mtime": "2021-04-26 07:00:03.756183",
+        "in_size": 245679,
+        "output_datetime": "2021-10-05T12:16:26Z",
+        "output_rows": "67859",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210502.usage.csv.gz": {
+        "batch": "ddb6137d-bc5e-3acd-84b5-ff34d65196d3",
+        "in_mtime": "2021-05-03 07:00:03.635534",
+        "in_size": 238678,
+        "output_datetime": "2021-10-05T12:17:08Z",
+        "output_rows": "64655",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210509.usage.csv.gz": {
+        "batch": "57c75379-d98b-3137-9b3f-4e08d7c50e93",
+        "in_mtime": "2021-05-10 07:00:02.846591",
+        "in_size": 192702,
+        "output_datetime": "2021-10-05T12:17:44Z",
+        "output_rows": "43893",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210516.usage.csv.gz": {
+        "batch": "d078dffc-d21b-3e1d-af1c-48e7b68c4cfe",
+        "in_mtime": "2021-05-17 07:00:03.453418",
+        "in_size": 175744,
+        "output_datetime": "2021-10-05T12:18:18Z",
+        "output_rows": "41076",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210523.usage.csv.gz": {
+        "batch": "e2f425e5-7379-30e4-9d60-91a58943c8f7",
+        "in_mtime": "2021-05-24 07:00:02.871627",
+        "in_size": 153635,
+        "output_datetime": "2021-10-05T12:18:42Z",
+        "output_rows": "33282",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210530.usage.csv.gz": {
+        "batch": "af3d69dd-c79f-3451-9b97-da4edb22b62d",
+        "in_mtime": "2021-05-31 07:00:03.072767",
+        "in_size": 123374,
+        "output_datetime": "2021-10-05T12:19:04Z",
+        "output_rows": "26838",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210606.usage.csv.gz": {
+        "batch": "0c209c39-ef00-3d5c-b273-5fd2434d5753",
+        "in_mtime": "2021-06-07 07:00:02.744893",
+        "in_size": 125727,
+        "output_datetime": "2021-10-05T12:19:27Z",
+        "output_rows": "28429",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210613.usage.csv.gz": {
+        "batch": "5977f877-61c9-3e3b-aa53-7c04865369fa",
+        "in_mtime": "2021-06-14 07:00:02.488204",
+        "in_size": 101965,
+        "output_datetime": "2021-10-05T12:19:50Z",
+        "output_rows": "22995",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210620.usage.csv.gz": {
+        "batch": "ab00f204-7993-301c-99da-0a5ce032f72d",
+        "in_mtime": "2021-06-21 07:00:02.846525",
+        "in_size": 94545,
+        "output_datetime": "2021-10-05T12:20:08Z",
+        "output_rows": "21146",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210627.usage.csv.gz": {
+        "batch": "3f7fa407-bf67-3a2e-8027-6d77c9437d96",
+        "in_mtime": "2021-06-28 07:00:02.774774",
+        "in_size": 97900,
+        "output_datetime": "2021-10-05T12:20:26Z",
+        "output_rows": "22072",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210704.usage.csv.gz": {
+        "batch": "a9c85549-7df8-3233-a851-e477074b73e4",
+        "in_mtime": "2021-07-05 07:00:02.723186",
+        "in_size": 98974,
+        "output_datetime": "2021-10-05T12:20:46Z",
+        "output_rows": "22263",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210711.usage.csv.gz": {
+        "batch": "b50d410a-5f13-3edb-bda9-97d3d735d88b",
+        "in_mtime": "2021-07-12 07:00:02.753283",
+        "in_size": 101464,
+        "output_datetime": "2021-10-05T12:21:04Z",
+        "output_rows": "22630",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210718.usage.csv.gz": {
+        "batch": "036f9532-d7b1-37d0-8d6d-cfe44ded163e",
+        "in_mtime": "2021-07-19 07:00:02.629569",
+        "in_size": 97335,
+        "output_datetime": "2021-10-05T12:21:26Z",
+        "output_rows": "21604",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210725.usage.csv.gz": {
+        "batch": "f608eae9-dcd3-3bd2-ac5c-c579ba88ce95",
+        "in_mtime": "2021-07-26 07:00:03.036982",
+        "in_size": 93910,
+        "output_datetime": "2021-10-05T12:21:42Z",
+        "output_rows": "20833",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210801.usage.csv.gz": {
+        "batch": "878dd65b-3545-377f-9dcd-32d3166aaf1c",
+        "in_mtime": "2021-08-02 07:00:03.326468",
+        "in_size": 132902,
+        "output_datetime": "2021-10-05T12:22:03Z",
+        "output_rows": "28274",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210808.usage.csv.gz": {
+        "batch": "1ebc09bf-0442-3847-b873-ec0413c911e3",
+        "in_mtime": "2021-08-09 07:00:03.213729",
+        "in_size": 152791,
+        "output_datetime": "2021-10-05T12:22:35Z",
+        "output_rows": "31398",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210815.usage.csv.gz": {
+        "batch": "8510aea5-8510-32ca-af09-032630e93c05",
+        "in_mtime": "2021-08-16 07:00:03.486679",
+        "in_size": 148252,
+        "output_datetime": "2021-10-05T12:23:02Z",
+        "output_rows": "31240",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210822.usage.csv.gz": {
+        "batch": "38be99c3-960b-3d7b-b30d-8e6c1d36ca3b",
+        "in_mtime": "2021-08-23 07:00:02.852962",
+        "in_size": 143546,
+        "output_datetime": "2021-10-05T12:23:28Z",
+        "output_rows": "30547",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210829.usage.csv.gz": {
+        "batch": "70dd7528-9320-3b03-9919-373ebaa708de",
+        "in_mtime": "2021-08-30 07:00:02.663192",
+        "in_size": 147757,
+        "output_datetime": "2021-10-05T12:23:56Z",
+        "output_rows": "31324",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210905.usage.csv.gz": {
+        "batch": "fa326d8b-6a27-3b8a-a40d-4e8c4cc713d0",
+        "in_mtime": "2021-09-06 07:00:02.901563",
+        "in_size": 143142,
+        "output_datetime": "2021-10-05T12:24:24Z",
+        "output_rows": "29894",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210912.usage.csv.gz": {
+        "batch": "3f05df19-f249-3ddf-bcca-9675ae7af848",
+        "in_mtime": "2021-09-13 07:00:02.970659",
+        "in_size": 147619,
+        "output_datetime": "2021-10-05T12:24:57Z",
+        "output_rows": "31723",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210919.usage.csv.gz": {
+        "batch": "fccd0e71-a01a-3cf4-af0b-bbf21bef576e",
+        "in_mtime": "2021-09-20 07:00:03.500430",
+        "in_size": 162153,
+        "output_datetime": "2021-10-05T12:25:27Z",
+        "output_rows": "34366",
+        "output_status": "0"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20210926.usage.csv.gz": {
+        "batch": "d8a89c4c-c80a-30b4-92b4-44b60ba47f7b",
+        "in_mtime": "2021-09-27 07:00:01.391975",
+        "in_size": 59,
+        "output_datetime": "2021-10-05T14:49:00Z",
+        "output_rows": "0",
+        "output_status": "1"
+    },
+    "/soft/metrics-repository/info.xsede.org/rabbitmq.usage/rabbit@infopub4.log-20211003.usage.csv.gz": {
+        "batch": "f8ed8571-c2bf-3f8d-9328-bfe28ed12d27",
+        "in_mtime": "2021-10-04 07:00:01.970571",
+        "in_size": 59,
+        "output_datetime": "2021-10-05T14:49:00Z",
+        "output_rows": "0",
+        "output_status": "1"
+    }
+}

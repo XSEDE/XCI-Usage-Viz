@@ -28,16 +28,16 @@ SET default_with_oids = false;
 --
 
 CREATE TABLE std_usage_entry (
-    used_component character varying(64) NOT NULL,
-    use_timestamp timestamp with time zone NOT NULL,
-    use_client character varying(253) NOT NULL,
-    used_component_version character varying(16),
-    use_user character varying(512),
-    use_amount character varying(32),
-    use_amount_units character varying(8),
-    used_resource character varying(2048),
-    usage_status character varying(2048),
-    other_fields_json text,
+    "USED_COMPONENT" character varying(64) NOT NULL,
+    "USE_TIMESTAMP" timestamp with time zone NOT NULL,
+    "USE_CLIENT" character varying(253) NOT NULL,
+    "USED_COMPONENT_VERSION" character varying(16),
+    "USE_USER" character varying(512),
+    "USE_AMOUNT" character varying(32),
+    "USE_AMOUNT_UNITS" character varying(8),
+    "USED_RESOURCE" character varying(2048),
+    "USAGE_STATUS" character varying(2048),
+    "OTHER_FIELDS_JSON" text,
     id integer PRIMARY KEY,
     source_tag character varying(32)
 );
@@ -77,21 +77,21 @@ ALTER TABLE ONLY std_usage_entry ALTER COLUMN id SET DEFAULT nextval('std_usage_
 -- Name: std_usage_entry_use_client; Type: INDEX; Schema: usage_schema; Owner: usage_owner; Tablespace: 
 --
 
-CREATE INDEX std_usage_entry_use_client ON std_usage_entry USING btree (use_client);
+CREATE INDEX std_usage_entry_use_client ON std_usage_entry USING btree ("USE_CLIENT");
 
 
 --
 -- Name: std_usage_entry_use_user; Type: INDEX; Schema: usage_schema; Owner: usage_owner; Tablespace: 
 --
 
-CREATE INDEX std_usage_entry_use_user ON std_usage_entry USING btree (use_user);
+CREATE INDEX std_usage_entry_use_user ON std_usage_entry USING btree ("USE_USER");
 
 
 --
 -- Name: std_usage_entry_used_component; Type: INDEX; Schema: usage_schema; Owner: usage_owner; Tablespace: 
 --
 
-CREATE INDEX std_usage_entry_used_component ON std_usage_entry USING btree (used_component);
+CREATE INDEX std_usage_entry_used_component ON std_usage_entry USING btree ("USED_COMPONENT");
 
 
 --
