@@ -99,10 +99,10 @@ class RepositoryProcess():
             with open(self.config['file_status_file']) as fh:
                 self.FILE_STATUS = json.load(fh)
         except IOError as e:
-            self.logger.error('IO Error loading status={}, initializing'.format(self.config['file_status_file']))
+            self.logger.warning('IOError loading={}, initializing'.format(self.config['file_status_file']))
             self.FILE_STATUS = {}
         except json.JSONDecodeError(msg, doc, pos):
-            self.logger.error('JSON error "{}", in "{}" at "{}", QUITTING'.format(msg, doc, pos))
+            self.logger.error('JSONDecodeError "{}", in "{}" at "{}", QUITTING'.format(msg, doc, pos))
             self.exit(1)
 
         self.STEPS = {}
@@ -154,7 +154,7 @@ class RepositoryProcess():
         this_history['batch'] = str(uuid.uuid3(uuid.NAMESPACE_URL, file_fqn))
         self.logger.info("Processing {} mtime={} size={}".format(file_name, input_mtime_str, input_stat.st_size))
 
-        sp = {}
+        sp = {}     # Sub-process dictionary by index=1,2,..
         for stepidx in sorted(self.STEPS):
             cmdlist = self.STEPS[stepidx].replace('%BATCH%', this_history['batch']).split()
             if stepidx == 1:
@@ -199,7 +199,6 @@ class RepositoryProcess():
         try:
             with open(self.config['file_status_file'], 'w+') as file:
                 json.dump(self.FILE_STATUS, file, indent=4, sort_keys=True)
-                file.close()
         except IOError:
             self.logger.error('Failed to write status=' + self.config['file_status_file'])
             sys.exit(1)
@@ -218,7 +217,7 @@ if __name__ == '__main__':
                 rc = process.process_file(file, process.FILES[file])
     except PidFileError:
         process.logger.critical('Pidfile lock error: {}'.format(process.pidfile_path))
-        sys.exit(1)
+        process.exit(1)
     end_utc = datetime.now(utc)
     process.logger.info("Processed files={}, seconds={}, skipped={}, errors={}".format(
         process.stats['processed'], (end_utc - start_utc).total_seconds(), 
