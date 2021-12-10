@@ -151,6 +151,9 @@ class DBLoad():
             else:                   # Column isn't in the DB, will be in other with lower fieldname
                 self.CSV_TO_DB_OTHMAP[infld] = outfld.lower()
         self.logger.debug('Columns mapped={}, other={}'.format(len(self.CSV_TO_DB_COLMAP), len(self.CSV_TO_DB_OTHMAP)))
+        
+        self.USER_ANONYMOUS_EQUIV = ['local:anonymous']         # Values that represent 'anonymous user'
+        self.USER_ANONYMOUS_VALUE = 'n/a'                       # Value that null/none/empty and the above EQUIV are replaced with
 
     def db_connect(self, url, username, password):
         idx = url.find(':')
@@ -218,6 +221,10 @@ class DBLoad():
                 if dbfield in self.DB_COLMAX and len(row.get(csvfield)) > self.DB_COLMAX[dbfield]:
                     write_dict[dbfield] = row.get(csvfield)[:self.DB_COLMAX[dbfield]]
                     self.logger.info('Truncated field={}'.format(csvfield))
+                # Null/none/empty or in EQUIV list
+                elif dbfield == 'use_user' and (not row.get(csvfield) or \
+                        row.get(csvfield, '') in self.USER_ANONYMOUS_EQUIV):
+                    write_dict[dbfield] = self.USER_ANONYMOUS_VALUE
                 else:
                     write_dict[dbfield] = row.get(csvfield)
             if self.CSV_TO_DB_OTHMAP:
