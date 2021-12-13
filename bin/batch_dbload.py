@@ -207,14 +207,13 @@ class DBLoad():
         OUTPUT = self.DB_CURSOR
         cols = list(self.CSV_TO_DB_COLMAP.values())             # The columns we are writing to the database
         cols.append('batch_uuid')                               # A column we are adding that doesn't exist in the input
-        cols.append('use_user') if 'use_user' not in cols       # A column we are adding if it's not in the input
+        if 'use_user' not in cols:
+            cols.append('use_user')                             # A column we are adding if it's not in the input
         if self.CSV_TO_DB_OTHMAP:                               # We have other fields in the CSV
             cols.append('other_fields_json')
         cols_string = ','.join(cols)
         ssss_string = ','.join( ['%s' for i in range(len(cols))] )
         SQL = 'INSERT INTO {} ({}) values ({});'.format(self.config['DB_TABLE'], cols_string, ssss_string)
-        # Not needed
-        # uuid = psycopg2.extensions.adapt(self.BATCH_UUID).getquoted()
         out_list = list()
         for row in INPUT:
             write_dict = {'batch_uuid': self.BATCH_UUID,            # Add to all rows
@@ -241,14 +240,6 @@ class DBLoad():
                 psycopg2.extras.execute_batch(OUTPUT, SQL, out_list)
                 self.ROWS_AFTER += len(out_list)
                 out_list = list()
-
-#           vals = [ write_dict[k] for k in cols ]
-#           ssss_string = ','.join( ['%s' for i in range(len(vals))] )
-#           SQL = 'INSERT INTO {} ({}) values ({});'.format(self.config['DB_TABLE'], cols_string, ssss_string)
-#           if self.args.verbose:
-#               self.logger.debug('SQL: {}'.format(SQL))
-#           OUTPUT.execute(SQL, vals)
-#           self.ROWS_AFTER += 1
 
         # What's left after the last input
         if len(out_list) > 0:
