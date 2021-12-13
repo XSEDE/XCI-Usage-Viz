@@ -1,3 +1,6 @@
+tag-1.3.2 20211213
+  - Write use_user to the database by adding it to the cols list
+
 tag-1.3.1 20211213
   - Set unknown/anonymous use_user values when the input doesn't have it
 

@@ -205,9 +205,10 @@ class DBLoad():
         self.start_ts = datetime.utcnow()
         INPUT = self.IN_READER
         OUTPUT = self.DB_CURSOR
-        cols = list(self.CSV_TO_DB_COLMAP.values())
-        cols.append('batch_uuid')
-        if self.CSV_TO_DB_OTHMAP:       # We have other fields in the CSV
+        cols = list(self.CSV_TO_DB_COLMAP.values())             # The columns we are writing to the database
+        cols.append('batch_uuid')                               # A column we are adding that doesn't exist in the input
+        cols.append('use_user') if 'use_user' not in cols       # A column we are adding if it's not in the input
+        if self.CSV_TO_DB_OTHMAP:                               # We have other fields in the CSV
             cols.append('other_fields_json')
         cols_string = ','.join(cols)
         ssss_string = ','.join( ['%s' for i in range(len(cols))] )
