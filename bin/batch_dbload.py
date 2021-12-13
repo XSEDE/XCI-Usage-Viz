@@ -216,7 +216,8 @@ class DBLoad():
         # uuid = psycopg2.extensions.adapt(self.BATCH_UUID).getquoted()
         out_list = list()
         for row in INPUT:
-            write_dict = {'batch_uuid': self.BATCH_UUID}
+            write_dict = {'batch_uuid': self.BATCH_UUID,            # Add to all rows
+                        'use_user': self.USER_ANONYMOUS_VALUE}      # Set in case input doesn't have it
             for csvfield, dbfield in self.CSV_TO_DB_COLMAP.items():
                 if dbfield in self.DB_COLMAX and len(row.get(csvfield)) > self.DB_COLMAX[dbfield]:
                     write_dict[dbfield] = row.get(csvfield)[:self.DB_COLMAX[dbfield]]
