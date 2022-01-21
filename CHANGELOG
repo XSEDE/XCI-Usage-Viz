@@ -1,3 +1,6 @@
+tag-1.3.5 20220121
+  - Finish disabling hourly views
+
 tag-1.3.4 20220119
   - More materialized view refinement, consolidate sum_usage2_* into sum_usage_*
 
