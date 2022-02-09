@@ -1,3 +1,6 @@
+tag-1.4.2 20220210
+  - Change daily summary to include 3 full months, starting 4 months ago through last month
+
 tag-1.4.1 20220209
   - Fix refresh_materialized_views.sql syntax
 

@@ -81,7 +81,7 @@ SELECT used_component, DATE_TRUNC('day', use_timestamp) AS use_day, use_user, us
         SUM(use_amount) AS use_amount,
         LAG(DATE_TRUNC('day', use_timestamp), 1) OVER (PARTITION BY used_component, use_user, use_amount_units ORDER BY DATE_TRUNC('day', use_timestamp)) AS previous_use_day
     FROM std_usage_entry
-    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '3 months'
+    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '4 months'
       AND use_timestamp < DATE_TRUNC('month', NOW())
     GROUP BY used_component, use_day, use_user, use_amount_units
     ORDER BY used_component, use_day;
@@ -100,7 +100,7 @@ SELECT used_component, DATE_TRUNC('day', use_timestamp) AS use_day, use_amount_u
         COUNT(distinct(use_client)) AS distinct_clients,
         SUM(use_amount) AS use_amount
     FROM std_usage_entry
-    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '3 months'
+    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '4 months'
       AND use_timestamp < DATE_TRUNC('month', NOW())
     GROUP BY used_component, use_day, use_amount_units
     ORDER BY used_component, use_day;
@@ -137,7 +137,7 @@ SELECT used_component, DATE_TRUNC('day', use_timestamp) AS use_day, use_user, us
         COUNT(*) AS use_count,
         LAG(DATE_TRUNC('day', use_timestamp), 1) OVER (PARTITION BY used_component, use_user, use_client ORDER BY DATE_TRUNC('day', use_timestamp)) AS previous_use_day
     FROM std_usage_entry
-    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '3 months'
+    WHERE use_timestamp >= DATE_TRUNC('month', NOW()) - INTERVAL '4 months'
       AND use_timestamp < DATE_TRUNC('month', NOW())
       AND used_component in ('org.cilogon.auth', 'org.globus.auth')
     GROUP BY used_component, use_day, use_user, use_client
