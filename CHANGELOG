@@ -1,3 +1,6 @@
+tag-1.4.1 20220209
+  - Fix refresh_materialized_views.sql syntax
+
 tag-1.4.0 20220206
   - Redesign materialized views to track last usage and user turnover
 
