@@ -48,13 +48,14 @@ CREATE MATERIALIZED VIEW sum_usage_monthly_new_users AS
 SELECT used_component, use_month, use_amount_units,
         COUNT(*) AS distinct_users,
         SUM(CASE WHEN previous_use_month is null THEN 1 ELSE 0 END) AS first_time_users,
-        SUM(CASE WHEN previous_use_month is null THEN 0 WHEN use_month - INTERVAL '1 month' = previous_use_month THEN 1 ELSE 0 END) AS last_month_users
+        SUM(CASE WHEN previous_use_month is not null THEN 1 ELSE 0 END) AS returning_users
     FROM sum_usage_user_monthly
     GROUP BY used_component, use_month, use_amount_units;
+    -- SUM(CASE WHEN previous_use_month is null THEN 0 WHEN use_month - INTERVAL '1 month' = previous_use_month THEN 1 ELSE 0 END) AS last_month_users
 
 CREATE MATERIALIZED VIEW sum_usage_monthly AS
 SELECT T.used_component, T.use_month, T.use_amount_units,
-        use_amount, use_count, distinct_clients, distinct_users, first_time_users, last_month_users
+        use_amount, use_count, distinct_clients, distinct_users, first_time_users, returning_users
     FROM sum_usage_monthly_totals_n_clients T, sum_usage_monthly_new_users U
     WHERE T.used_component = U.used_component
       AND T.use_month = U.use_month
