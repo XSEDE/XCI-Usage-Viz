@@ -3,7 +3,7 @@
 import argparse
 import csv
 import datetime
-from datetime import datetime, tzinfo, timedelta
+from datetime import datetime, timedelta, timezone
 import fnmatch
 import gzip
 import json
@@ -17,15 +17,6 @@ import sys
 import uuid
 import pdb
 from stat import *
-
-class UTC(tzinfo):
-    def utcoffset(self, dt):
-        return timedelta(0)
-    def tzname(self, dt):
-        return 'UTC'
-    def dst(self, dt):
-        return timedelta(0)
-utc = UTC()
 
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
@@ -142,7 +133,7 @@ class RepositoryProcess():
     def process_file(self, file_name, file_fqn):
         this_history = self.FILE_STATUS.get(file_fqn, {})
         input_stat = os.stat(file_fqn)
-        input_mtime_str = str(datetime.fromtimestamp(input_stat.st_mtime))
+        input_mtime_str = str(datetime.fromtimestamp(input_stat.st_mtime, tz=timezone.utc))
         if input_stat.st_size == this_history.get('in_size', None) \
                 and input_mtime_str == this_history.get('in_mtime', None) \
                 and (this_history.get('output_status') or '') == '0':
@@ -191,7 +182,7 @@ class RepositoryProcess():
             else:
                 self.stats['processed'] += 1
  
-        this_history['output_datetime'] = datetime.now(utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+        this_history['output_datetime'] = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         self.FILE_STATUS[file_fqn] = this_history
         self.save_status()
 
@@ -207,7 +198,7 @@ class RepositoryProcess():
         sys.exit(rc)
 
 if __name__ == '__main__':
-    start_utc = datetime.now(utc)
+    start_utc = datetime.now(timezone.utc)
     process = RepositoryProcess()
     process.Setup_Logging()
     try:
@@ -218,7 +209,7 @@ if __name__ == '__main__':
     except PidFileError:
         process.logger.critical('Pidfile lock error: {}'.format(process.pidfile_path))
         process.exit(1)
-    end_utc = datetime.now(utc)
+    end_utc = datetime.now(timezone.utc)
     process.logger.info("Processed files={}, seconds={}, skipped={}, errors={}".format(
         process.stats['processed'], (end_utc - start_utc).total_seconds(), 
         process.stats['skipped'], process.stats['errors']))
