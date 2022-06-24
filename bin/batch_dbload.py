@@ -98,6 +98,7 @@ class DBLoad():
         self.DB_MAXTYPES = { int(oid): typename for oid, typename in self.DB_CURSOR.fetchall() }
         self.DB_CURSOR.execute('SELECT * FROM {} LIMIT 0'.format(self.config['DB_TABLE']))
         self.DB_COLS = [desc[0] for desc in self.DB_CURSOR.description]
+        self.DB_COLS_NUMERIC = ['use_amount']
         # Columns names and the length we will truncate to
         self.DB_COLMAX = {}
         for col in self.DB_CURSOR.description:
@@ -226,6 +227,8 @@ class DBLoad():
                 elif dbfield == 'use_user' and (not row.get(csvfield) or \
                         row.get(csvfield, '') in self.USER_ANONYMOUS_EQUIV):
                     write_dict[dbfield] = self.USER_ANONYMOUS_VALUE
+                elif dbfield in self.DB_COLS_NUMERIC and not row.get(csvfield): # Numeric empty should be None
+                    write_dict[dbfield] = None
                 else:
                     write_dict[dbfield] = row.get(csvfield)
             if self.CSV_TO_DB_OTHMAP:

@@ -1,3 +1,6 @@
+tag-1.4.5 20220624
+  - Properly handle numeric fields that are missing a value
+
 tag-1.4.4 20220423
   - Fix and improve timezone handling
 
